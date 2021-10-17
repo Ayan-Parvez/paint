@@ -1,0 +1,10 @@
+body{
+    background-image: url("https://media.discordapp.net/attachments/758658685470900245/872798864636260402/bg1.jpg?width=562&height=583");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#clear{
+    background-color: green;
+    width: 200px;
+    height: 50px;
+}
